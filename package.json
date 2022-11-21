@@ -9,10 +9,13 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "fingerpose": "0.0.2",
+    "html-to-image": "^1.10.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-player": "^2.11.0",
     "react-scripts": "3.4.3",
-    "react-webcam": "^5.2.0"
+    "react-webcam": "^5.2.0",
+    "youtube-dl-exec": "^2.1.6"
   },
   "scripts": {
     "start": "react-scripts start",
